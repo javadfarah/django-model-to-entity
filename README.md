@@ -12,3 +12,6 @@ dict to entity will convert this for you perfectly
 
 about performance ---->> it's about 2x faster than django-rest-framework.
 if you select with raw sql you can fly...
+
+
+you can se how to use in example.py file
