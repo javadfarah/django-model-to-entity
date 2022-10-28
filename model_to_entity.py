@@ -6,7 +6,6 @@ import typing
 
 
 class EntityMaker:
-    # todo: dict to entity
     imported = {}
 
     @classmethod
